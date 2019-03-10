@@ -1,0 +1,47 @@
+#register-container{
+    background-color: #00bfa5;
+    background-size: cover;
+    background-position: center;
+
+   
+}
+.register-form h2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+   position: absolute;
+    top: 10%;
+    left: 5%;
+   font-weight: bold;
+   color: #eff5f4;
+   font-size: 1.5em
+   
+    
+}
+.register-form {
+    margin-bottom: 30px;
+}
+.form-item{
+    text-align: left;
+}
+.form-item .form-group lebal{
+    color: #Fff;
+    font-size: 1.3em;
+   
+}
+.form-item .form-group input{
+    width: 400px;
+    height: 40px;
+}
+.form-item p{
+    text-decoration: none;
+    color: #fff;
+}
+.form-item a{
+    text-decoration: none;
+}
+.error{
+    color: red;
+}
+p{
+  color: red;
+}
